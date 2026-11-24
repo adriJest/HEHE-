@@ -1,0 +1,12 @@
+{
+  "name": "wane-neuroscience-study",
+  "version": "1.0.0",
+  "description": "Ways Around Neuroscience Efficiently - A study website",
+  "private": true,
+  "scripts": {
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
